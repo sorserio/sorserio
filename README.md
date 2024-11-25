@@ -1,6 +1,6 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Héctor Fuentes Rebolledo
+## Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Héctor Fuentes Rebolledo
 🖥️ *Full Stack Developer* <br>
-👋 Hi, I'm Héctor Fuentes Rebolledo, a **Junior Developer** passionate about creating innovative and user-friendly solutions. I love transforming ideas into impactful projects and always look for opportunities to grow and learn.  
+I'm Héctor Fuentes Rebolledo, a **Junior Developer** passionate about creating innovative and user-friendly solutions. I love transforming ideas into impactful projects and always look for opportunities to grow and learn.  
 
 I firmly believe that every mistake is an opportunity to improve and reach new levels of development. I value collaboration and focus on building technology that truly makes a difference. Let’s connect and create something amazing!  
 
