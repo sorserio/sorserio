@@ -1,5 +1,8 @@
 ## Hi there 👋 I'm Héctor Fuentes Rebolledo
 🖥️ *Full Stack Developer*
+👋 Hi, I'm Héctor Sebastián Fuentes, a **Junior Developer** passionate about creating innovative and user-friendly solutions. I love transforming ideas into impactful projects and always look for opportunities to grow and learn.  
+
+I firmly believe that every mistake is an opportunity to improve and reach new levels of development. I value collaboration and focus on building technology that truly makes a difference. Let’s connect and create something amazing!  
 
 
 <!--Contacto--> 
