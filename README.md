@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Héctor Fuentes Rebolledo
-
+🖥️ *Full Stack Developer*
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
