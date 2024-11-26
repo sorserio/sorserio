@@ -20,6 +20,6 @@ I firmly believe that every mistake is an opportunity to improve and reach new l
 </div>
 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,nodejs"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,mysql, spring, nodejs"  />
 </p>
 <br />
